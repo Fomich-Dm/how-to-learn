@@ -110,12 +110,12 @@
   font-weight: normal;
 }
 
-.two-colums__paragraph:nth-of-type(2) {
+.two-columns__paragraph:nth-of-type(2) {
   margin-bottom: 30px;
   margin-top: 30px;
 }
 
-.two-colums__span-accent {
+.two-columns__span-accent {
   line-height: 34px;
   font-size: 24px;
   font-weight: bold;
